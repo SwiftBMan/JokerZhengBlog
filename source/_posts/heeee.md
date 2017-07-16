@@ -1,7 +1,7 @@
 ---
-title: {{ title }}
-date: {{ date }}
-updated: {{ date }}
+title: heeee
+date: 2017-07-17 00:45:25
+updated: 2017-07-18 00:45:25
 categories:
 tags:
 ---
