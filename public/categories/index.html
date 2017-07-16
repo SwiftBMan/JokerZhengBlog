@@ -111,7 +111,7 @@
 
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.1" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.png?v=5.1.1" />
 
 
 
@@ -136,7 +136,7 @@
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"hide","offset":12,"offset_float":0,"b2t":false,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -209,7 +209,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <p class="site-subtitle">Life doesn't get easier, you just get stronger.</p>
       
   </div>
 
@@ -388,6 +388,8 @@
 
   <aside id="sidebar" class="sidebar">
     
+      <div id="sidebar-dimmer"></div>
+    
     <div class="sidebar-inner">
 
       
@@ -559,6 +561,8 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
+          <span id="scrollpercent"><span>0</span>%</span>
+        
       </div>
     
 
@@ -583,11 +587,12 @@
   
 
 
+
+
+
+
   
-
-
-
-
+  
 
 
 
@@ -614,7 +619,10 @@
   <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
   
-  <script type="text/javascript" src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script type="text/javascript" src="/lib/three/three.min.js"></script>
+
+  
+  <script type="text/javascript" src="/lib/three/canvas_lines.min.js"></script>
 
 
   

@@ -4,7 +4,7 @@
 
 # Site 网站
 title: JokerZheng of Blog       # 网站标题
-subtitle:             # 网站副标题
+subtitle:     Life doesn't get easier, you just get stronger.        # 网站副标题
 description:  Life doesn't get easier, you just get stronger.    # 网站描述
 author: JokerZheng              # 您的名字
 language:  zh-Hans              # 网站使用的语言
@@ -77,6 +77,7 @@ search:
 per_page: 10                    # 每页显示的文章量 (0 = 关闭分页功能)
 pagination_dir: page            # 分页目录
 
+
 # Extensions 扩展
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -84,5 +85,8 @@ theme: next                                  # 当前主题名称。值为false�
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:                                           # 部署部分的设置
-  type:
+deploy:
+  type: git # 设置发布类型，如git，rsync
+  repo: git@github.com:SwiftBMan/SwiftBMan.github.io.git
+  branch: master                                                
+  message: Site updated at {{ now("YYYY-MM-DD HH:mm:ss") }} 

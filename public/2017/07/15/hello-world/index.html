@@ -111,7 +111,7 @@
 
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.1" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.png?v=5.1.1" />
 
 
 
@@ -137,7 +137,7 @@
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"hide","offset":12,"offset_float":0,"b2t":false,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -210,7 +210,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <p class="site-subtitle">Life doesn't get easier, you just get stronger.</p>
       
   </div>
 
@@ -569,22 +569,15 @@
 
   <aside id="sidebar" class="sidebar">
     
+      <div id="sidebar-dimmer"></div>
+    
     <div class="sidebar-inner">
 
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            文章目录
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview">
-            站点概览
-          </li>
-        </ul>
-      
 
-      <section class="site-overview sidebar-panel">
+      <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="http://photo.scol.com.cn/dw/img/attachement/jpg/site2/20110330/00219b7b06490efcd61b3f.jpg"
@@ -703,22 +696,6 @@
       </section>
 
       
-      <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-              
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
-            
-
-          </div>
-        </section>
-      <!--/noindex-->
-      
 
       
 
@@ -765,6 +742,8 @@
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
         
+          <span id="scrollpercent"><span>0</span>%</span>
+        
       </div>
     
 
@@ -789,11 +768,12 @@
   
 
 
+
+
+
+
   
-
-
-
-
+  
 
 
 
@@ -820,7 +800,10 @@
   <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
   
-  <script type="text/javascript" src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script type="text/javascript" src="/lib/three/three.min.js"></script>
+
+  
+  <script type="text/javascript" src="/lib/three/canvas_lines.min.js"></script>
 
 
   
