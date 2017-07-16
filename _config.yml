@@ -18,6 +18,8 @@ root: /                                       # 网站根目录
 permalink: :year/:month/:day/:title/          # 文章的 永久链接 格式
 permalink_defaults:                           # 永久链接中各部分的默认值
 
+favicon: favicon.ico
+
 # Directory # 目录
 source_dir: source        # 资源文件夹，这个文件夹用来存放内容。
 public_dir: public        # 公共文件夹，这个文件夹用于存放生成的站点文件。

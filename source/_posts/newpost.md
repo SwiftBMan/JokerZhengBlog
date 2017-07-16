@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: newpost
+date: 2017-07-16 19:52:50
 categories:
 tags:
 ---
