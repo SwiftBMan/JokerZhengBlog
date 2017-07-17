@@ -13,7 +13,7 @@ timezone:         # 网站时区。Hexo 默认使用您电脑的时区。时区�
 
 # URL 网址
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com                      # 网址
+url: https://swiftbman.github.io                      # 网址
 root: /                                       # 网站根目录
 permalink: :year/:month/:day/:title/          # 文章的 永久链接 格式
 permalink_defaults:                           # 永久链接中各部分的默认值
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase     # 把标题转换为 title
 external_link: true # Open external links in new tab  # 在新标签中打开链接
 filename_case: 0                                      # 把文件名称转换为 (1) 小写或 (2) 大写
 render_drafts: false                                  # 显示草稿
-post_asset_folder: false                              # 启动 Asset 文件夹
+post_asset_folder: true                              # 启动 Asset 文件夹
 relative_link: false                                  # 把链接改为与根目录的相对位址
 future: true                                          # 显示未来的文章
 highlight:                                            # 代码块的设置

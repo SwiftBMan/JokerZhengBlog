@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[sooo]]></title>
+    <url>%2F2017%2F07%2F17%2Fsooo%2F</url>
+    <content type="text"><![CDATA[var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","mutex":true,"theme":"#e6d0b2","preload":"metadata","listmaxheight":"513px","music":[{"title":"暧昧","author":"薛之谦","url":"aimei.mp3","pic":"yiwai.png","lrc":"aimei.txt"},{"title":"意外","author":"薛之谦","url":"yiwai.mp3","pic":"yiwai.png"}]}; options.element = document.getElementById("aplayer1"); new APlayer(options);]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[heeee]]></title>
     <url>%2F2017%2F07%2F17%2Fheeee%2F</url>
     <content type="text"><![CDATA[]]></content>
@@ -8,7 +13,7 @@
   <entry>
     <title><![CDATA[heee]]></title>
     <url>%2F2017%2F07%2F17%2Fheee%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <content type="text"><![CDATA[var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://devtest.qiniudn.com/若能绽放光芒.mp4","pic":"http://devtest.qiniudn.com/若能绽放光芒.png"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo","addition":["https://dplayer.daoapp.io/bilibili?aid=4157142"]}}); var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://devtest.qiniudn.com/若能绽放光芒.mp4","pic":"http://devtest.qiniudn.com/若能绽放光芒.png"},"danmaku":{"api":"http://dplayer.donot.help/dplayerpy","id":"2622668","addition":["https://dplayer.daoapp.io/bilibili?aid=4157142"]}});]]></content>
   </entry>
   <entry>
     <title><![CDATA[newpost]]></title>
@@ -18,27 +23,36 @@
   <entry>
     <title><![CDATA[draft]]></title>
     <url>%2F2017%2F07%2F16%2Fdraft%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[hh]]></title>
     <url>%2F2017%2F07%2F16%2F2017-07-16-hh%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[car]]></title>
     <url>%2F2017%2F07%2F16%2F2017-07-16-car%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[hh]]></title>
     <url>%2F2017%2F07%2F16%2Fhh%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[new APlayer({ element: document.getElementById("aplayer0"), narrow: false, autoplay: true, showlrc: 0, music: { title: "Caffeine", author: "Jeff Williams", url: "/music/yiwai.mp3", pic: "", } });]]></content>
   </entry>
   <entry>
     <title><![CDATA[haha.md]]></title>
     <url>%2F2017%2F07%2F16%2Fhaha-md%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F07%2F15%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
@@ -50,15 +64,6 @@
       </categories>
       <tags>
         <tag>Testing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F07%2F15%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
       </tags>
   </entry>
 </search>
