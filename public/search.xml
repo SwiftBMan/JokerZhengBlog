@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[brew命令的使用]]></title>
     <url>%2F2017%2F07%2F18%2FUseBrew%2F</url>
-    <content type="text"><![CDATA[文章摘要：介绍brew一些常用命令的使用 查看brew帮助 1$ brew help 搜索软件 1$ brew search [TEXT|/REGEX/] 安装软件 1$ brew install FORMULA... 卸载软件 1$ brew uninstall FORMULA... 显示已经安装的软件列表 1$ brew list [FORMULA...] 查看过期的软件 1$ brew outdated 更新 Homebrew 自己 1$ brew update 更新某个具体软件 1$ brew upgrade [FORMULA...] 更新所有软件 1$ brew upgrade 查看软件信息、网站、选项 1$ brew (info|home|options) [FORMULA...] 清除软件老版本 1$ brew cleanup 清除某个软件老版本 1$ brew cleanup FORMULA... 查看配置 1$ brew config 查看有没有安装的问题 1$ brew doctor 更新和软件升级 1$ brew update &amp;&amp; brew upgarde 转载请注明出处]]></content>
+    <content type="text"><![CDATA[文章摘要：介绍brew一些常用命令的使用 查看brew帮助 1$ brew help 搜索软件 1$ brew search [TEXT|/REGEX/] 安装软件 1$ brew install FORMULA... 卸载软件 1$ brew uninstall FORMULA... 显示已经安装的软件列表 1$ brew list [FORMULA...] 查看过期的软件 1$ brew outdated 更新 Homebrew 自己 1$ brew update 更新某个具体软件 1$ brew upgrade [FORMULA...] 更新所有软件 1$ brew upgrade 查看软件信息、网站、选项 1$ brew (info|home|options) [FORMULA...] 清除软件老版本 1$ brew cleanup 清除某个软件老版本 1$ brew cleanup FORMULA... 查看配置 1$ brew config 查看有没有安装的问题 1$ brew doctor 更新和软件升级 1$ brew update &amp;&amp; brew upgrade 相关链接：Homebrew官网 转载请注明出处文章有问题请指出 var gitment = new Gitment({ id: '页面 ID', // 可选。默认为 location.href owner: 'SwiftBMan', // 可以是你的GitHub用户名，也可以是github id repo: 'SwiftBMan.github.io', oauth: { client_id: '39eef23ae837add047ec', client_secret: '18622bf0a663c728c64a8c65c55788007b1d3247', }, }) gitment.render('container')]]></content>
       <categories>
         <category>终端命令</category>
       </categories>

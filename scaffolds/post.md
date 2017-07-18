@@ -10,3 +10,14 @@ tags:
 
  <!-- more -->
 <The rest of contents | 余下全文>
+***
+<!-- 内容 -->
+***
+{% note info %} 
+ #### 相关链接：
+ [Homebrew官网](https://brew.sh)
+{% endnote %}
+{% note warning %} 
+ 转载请注明出处 
+ 文章有问题请指出
+{% endnote %}
