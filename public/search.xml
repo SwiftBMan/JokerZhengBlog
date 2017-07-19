@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[npm的一些常用命令]]></title>
+    <url>%2F2017%2F07%2F19%2FUseNpm%2F</url>
+    <content type="text"><![CDATA[文章摘要：介绍npm一些常用命令的使用 安装模块全局安装1$ npm install &lt;Module Name&gt; -g 局部安装1$ npm install &lt;Module Name&gt; 你需要在当前的目录下执行初始化，也就是说当前目录必须有 package.json 文件。或者，你在当前的目录下人为的建立好node_modules目录否则npm会一直向上寻找package.json的所在目录，或者是node_modules目录，最后终止在用户根目录。 查看安装的模块及依赖查看全局模块及依赖1$ npm ls -g 查看局部模块及依赖1$ npm ls 卸载模块全局卸载模块1$ npm uninstall &lt;Module Name&gt; -g 局部卸载模块1$ npm uninstall &lt;Module Name&gt; 缓存验证1$ npm cache verify 清理缓存--force强制的意思1$ npm cache clean --force 检查模块是否已经过时1$ npm outdated 更新模块1$ npm update 升级npm1$ npm i -g npm 查看npm版本1$ npm -v 查看某个模块的版本号1$ npm list &lt;Module name&gt; 搜索模块1$ npm search &lt;Module name&gt; 相关链接：NPM 官网NPM 使用介绍NPM 常用命令详解 转载请注明出处文章有问题请指出]]></content>
+      <categories>
+        <category>终端命令</category>
+      </categories>
+      <tags>
+        <tag>npm</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[brew命令的使用]]></title>
     <url>%2F2017%2F07%2F18%2FUseBrew%2F</url>
-    <content type="text"><![CDATA[文章摘要：介绍brew一些常用命令的使用 查看brew帮助 1$ brew help 搜索软件 1$ brew search [TEXT|/REGEX/] 安装软件 1$ brew install FORMULA... 卸载软件 1$ brew uninstall FORMULA... 显示已经安装的软件列表 1$ brew list [FORMULA...] 查看过期的软件 1$ brew outdated 更新 Homebrew 自己 1$ brew update 更新某个具体软件 1$ brew upgrade [FORMULA...] 更新所有软件 1$ brew upgrade 查看软件信息、网站、选项 1$ brew (info|home|options) [FORMULA...] 清除软件老版本 1$ brew cleanup 清除某个软件老版本 1$ brew cleanup FORMULA... 查看配置 1$ brew config 查看有没有安装的问题 1$ brew doctor 更新和软件升级 1$ brew update &amp;&amp; brew upgrade 相关链接：Homebrew官网 转载请注明出处文章有问题请指出 var gitment = new Gitment({ id: '页面 ID', // 可选。默认为 location.href owner: 'SwiftBMan', // 可以是你的GitHub用户名，也可以是github id repo: 'SwiftBMan.github.io', oauth: { client_id: '39eef23ae837add047ec', client_secret: '18622bf0a663c728c64a8c65c55788007b1d3247', }, }) gitment.render('container')]]></content>
+    <content type="text"><![CDATA[文章摘要：介绍brew一些常用命令的使用 查看brew帮助 1$ brew help 搜索软件 1$ brew search [TEXT|/REGEX/] 安装软件 1$ brew install FORMULA... 卸载软件 1$ brew uninstall FORMULA... 显示已经安装的软件列表 1$ brew list [FORMULA...] 查看过期的软件 1$ brew outdated 更新 Homebrew 自己 1$ brew update 更新某个具体软件 1$ brew upgrade [FORMULA...] 更新所有软件 1$ brew upgrade 查看软件信息、网站、选项 1$ brew (info|home|options) [FORMULA...] 清除软件老版本 1$ brew cleanup 清除某个软件老版本 1$ brew cleanup FORMULA... 查看配置 1$ brew config 查看有没有安装的问题 1$ brew doctor 更新和软件升级 1$ brew update &amp;&amp; brew upgrade 相关链接：Homebrew官网 转载请注明出处文章有问题请指出]]></content>
       <categories>
         <category>终端命令</category>
       </categories>

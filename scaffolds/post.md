@@ -7,7 +7,9 @@ tags:
 ---
 ---
 <Excerpt in index | 首页摘要>  
-
+    {% note default %}
+    ### 文章摘要：
+    {% endnote %}
  <!-- more -->
 <The rest of contents | 余下全文>
 ***
@@ -15,7 +17,7 @@ tags:
 ***
 {% note info %} 
  #### 相关链接：
- [Homebrew官网](https://brew.sh)
+ []()
 {% endnote %}
 {% note warning %} 
  转载请注明出处 
