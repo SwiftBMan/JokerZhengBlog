@@ -93,6 +93,8 @@ tags:
 5. [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar) —— 日历组件
 6. [GPUImage](https://github.com/BradLarson/GPUImage) —— GPUImage为我们提供了由GPU加速的相机预览效果（包括图像和视频），速度极快。
 7. [iRate](https://github.com/nicklockwood/iRate) —— 一个便于使用的类库，可用于督促在iPhone、Mac应用商店下载并使用你的app用户给你推荐
+8. [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) —— 检测内存泄露
+9. [UAAppReviewManager](https://github.com/UrbanApps/UAAppReviewManager) —— 提醒用户评论
 
 ### Swift
 1. [Alamofire](https://github.com/Alamofire/Alamofire) —— Alamofire 是一个写在 Swift 上的十分美观的网络文库。

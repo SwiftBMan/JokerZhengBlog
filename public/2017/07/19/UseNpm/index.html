@@ -125,6 +125,7 @@
 <meta property="og:url" content="https://swiftbman.github.io/2017/07/19/UseNpm/index.html">
 <meta property="og:site_name" content="JokerZheng of Blog">
 <meta property="og:description" content="文章摘要：介绍npm一些常用命令的使用">
+<meta property="og:locale" content="zh-Hans">
 <meta property="og:updated_time" content="2017-07-19T15:35:15.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="npm的一些常用命令">
@@ -486,26 +487,26 @@
 <hr>
 <!-- 内容 -->
 <ol>
-<li>安装模块<figure class="highlight plain"><figcaption><span>全局安装</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install &lt;Module Name&gt; -g</div></pre></td></tr></table></figure>
-<figure class="highlight plain"><figcaption><span>局部安装</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install &lt;Module Name&gt;</div></pre></td></tr></table></figure>
+<li>安装模块<figure class="highlight plain"><figcaption><span>全局安装</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install &lt;Module Name&gt; -g</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><figcaption><span>局部安装</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install &lt;Module Name&gt;</span><br></pre></td></tr></table></figure>
 <div class="note info"><p>你需要在当前的目录下执行初始化，也就是说当前目录必须有 package.json 文件。或者，你在当前的目录下人为的建立好node_modules目录否则npm会一直向上寻找package.json的所在目录，或者是node_modules目录，最后终止在用户根目录。</p>
 </div></li>
-<li>查看安装的模块及依赖<figure class="highlight plain"><figcaption><span>查看全局模块及依赖</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm ls -g</div></pre></td></tr></table></figure>
-<figure class="highlight plain"><figcaption><span>查看局部模块及依赖</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm ls</div></pre></td></tr></table></figure></li>
-<li>卸载模块<figure class="highlight plain"><figcaption><span>全局卸载模块</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm uninstall &lt;Module Name&gt; -g</div></pre></td></tr></table></figure>
-<figure class="highlight plain"><figcaption><span>局部卸载模块</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm uninstall &lt;Module Name&gt;</div></pre></td></tr></table></figure></li>
-<li>缓存验证<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm cache verify</div></pre></td></tr></table></figure></li>
-<li>清理缓存<figure class="highlight plain"><figcaption><span>--force强制的意思</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm cache clean --force</div></pre></td></tr></table></figure></li>
-<li>检查模块是否已经过时<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm outdated</div></pre></td></tr></table></figure></li>
-<li>更新模块<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm update</div></pre></td></tr></table></figure></li>
-<li>升级npm<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm i -g npm</div></pre></td></tr></table></figure></li>
-<li>查看npm版本<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm -v</div></pre></td></tr></table></figure></li>
-<li>查看某个模块的版本号<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm list &lt;Module name&gt;</div></pre></td></tr></table></figure></li>
-<li>搜索模块<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm search &lt;Module name&gt;</div></pre></td></tr></table></figure>
+<li>查看安装的模块及依赖<figure class="highlight plain"><figcaption><span>查看全局模块及依赖</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm ls -g</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><figcaption><span>查看局部模块及依赖</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm ls</span><br></pre></td></tr></table></figure></li>
+<li>卸载模块<figure class="highlight plain"><figcaption><span>全局卸载模块</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm uninstall &lt;Module Name&gt; -g</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><figcaption><span>局部卸载模块</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm uninstall &lt;Module Name&gt;</span><br></pre></td></tr></table></figure></li>
+<li>缓存验证<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm cache verify</span><br></pre></td></tr></table></figure></li>
+<li>清理缓存<figure class="highlight plain"><figcaption><span>--force强制的意思</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm cache clean --force</span><br></pre></td></tr></table></figure></li>
+<li>检查模块是否已经过时<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm outdated</span><br></pre></td></tr></table></figure></li>
+<li>更新模块<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm update</span><br></pre></td></tr></table></figure></li>
+<li>升级npm<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm i -g npm</span><br></pre></td></tr></table></figure></li>
+<li>查看npm版本<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm -v</span><br></pre></td></tr></table></figure></li>
+<li>查看某个模块的版本号<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm list &lt;Module name&gt;</span><br></pre></td></tr></table></figure></li>
+<li>搜索模块<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm search &lt;Module name&gt;</span><br></pre></td></tr></table></figure>
 </li>
 </ol>
 <hr>
-<div class="note info"><h4 id="相关链接："><a href="#相关链接：" class="headerlink" title="相关链接："></a>相关链接：</h4><p><a href="https://www.npmjs.com" target="_blank" rel="external">NPM 官网</a><br><a href="http://www.runoob.com/nodejs/nodejs-npm.html" target="_blank" rel="external">NPM 使用介绍</a><br><a href="http://www.cnblogs.com/PeunZhang/p/5553574.html" target="_blank" rel="external">NPM 常用命令详解</a></p>
+<div class="note info"><h4 id="相关链接："><a href="#相关链接：" class="headerlink" title="相关链接："></a>相关链接：</h4><p><a href="https://www.npmjs.com" target="_blank" rel="noopener">NPM 官网</a><br><a href="http://www.runoob.com/nodejs/nodejs-npm.html" target="_blank" rel="noopener">NPM 使用介绍</a><br><a href="http://www.cnblogs.com/PeunZhang/p/5553574.html" target="_blank" rel="noopener">NPM 常用命令详解</a></p>
 </div>
 <div class="note warning"><p>转载请注明出处<br>文章有问题请指出</p>
 </div>
@@ -680,7 +681,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives/">
-                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-count">9</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -691,7 +692,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">5</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -702,7 +703,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-count">10</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -803,8 +804,8 @@
       <div class="footer-inner">
         <div class="copyright" >
   
-  &copy; 
-  <span itemprop="copyrightYear">2017</span>
+  &copy;  2017 - 
+  <span itemprop="copyrightYear">2018</span>
   <span class="with-love">
     <i class="fa fa-optin-monster"></i>
   </span>
