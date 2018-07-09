@@ -154,3 +154,29 @@ live2d:
   react:
     opacityDefault: 0.7
     opacityOnHover: 0.2
+
+# 代码压缩 github.com/chenzhutian/hexo-all-minifier
+all_minifier: true
+html_minifier:
+  enable: true
+  ignore_error: false
+  exclude:
+  
+css_minifier:
+  enable: true
+  exclude: 
+    - '*.min.css'
+js_minifier:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude: 
+    - '*.min.js'
+image_minifier: 
+  enable: false # 图片不压缩
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
