@@ -104,3 +104,53 @@ deploy:
 # aplayer
 aplayer:
   meting: true
+
+image_stream:
+  jquery: false
+  jquery_lazyload: false
+  img_placeholder: http://ww4.sinaimg.cn/large/e724cbefgw1etyppy7bgwg2001001017.gif
+
+# hexo-helper-live2d
+live2d:
+  enable: true
+  # pluginRootPath: live2dw/ # Root path of plugin to be on the site (Relative)
+  # pluginJsPath: lib/ # JavaScript path related to plugin's root (Relative)
+  # pluginModelPath: assets/ # Relative model path related to plugin's root (Relative)
+  model:
+    scale: 1
+    hHeadPos: 0.5
+    vHeadPos: 0.618
+    # use: ./packages/live2d-widget-model-chitose
+    # use: ./packages/live2d-widget-model-epsilon2_1
+    # use: ./packages/live2d-widget-model-gf
+    # use: ./packages/live2d-widget-model-haru/01
+    # use: ./packages/live2d-widget-model-haru/02
+    # use: ./packages/live2d-widget-model-haruto
+    # use: ./packages/live2d-widget-model-hibiki
+    # use: ./packages/live2d-widget-model-hijiki # 猫
+    # use: ./packages/live2d-widget-model-izumi
+    # use: ./packages/live2d-widget-model-koharu
+    # use: ./packages/live2d-widget-model-miku
+    # use: ./packages/live2d-widget-model-ni-j
+    # use: ./packages/live2d-widget-model-nico
+    # use: ./packages/live2d-widget-model-nietzsche
+    # use: ./packages/live2d-widget-model-nipsilon
+    # use: ./packages/live2d-widget-model-shizuku
+    # use: ./packages/live2d-widget-model-tororo
+    # use: ./packages/live2d-widget-model-tsumiki
+    use: ./packages/live2d-widget-model-unitychan 
+    # use: ./packages/live2d-widget-model-wanko
+    # use: ./packages/live2d-widget-model-z16
+  display:
+    superSample: 2
+    width: 75
+    height: 150
+    position: left
+    hOffset: 0
+    vOffset: -100
+  mobile:
+    show: true
+    scale: 0.5
+  react:
+    opacityDefault: 0.7
+    opacityOnHover: 0.2
