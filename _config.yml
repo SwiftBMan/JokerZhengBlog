@@ -180,3 +180,10 @@ image_minifier:
   optimizationLevel: 2
   pngquant: false
   progressive: false
+
+# Hexo 插件，解决 disqus 不能访问的反向代理
+# disqus_proxy:
+#   shortname: ciqu
+#   username: ciqu
+#   host: disqus-proxy.ycwalker.com
+#   port: 443
