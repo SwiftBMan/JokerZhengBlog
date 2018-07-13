@@ -1,11 +1,3 @@
-<!-- 使用说明 -->
-<!-- 
-例子
-代码块：
-{% codeblock nullable表示可为空 lang:objc %}
-{% endcodeblock %}
- -->
-
 ---
 title: {{ title }}
 date: {{ date }}

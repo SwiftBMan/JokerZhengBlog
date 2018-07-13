@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[iOS面试题搜集]]></title>
+    <url>%2F2018%2F07%2F12%2FiOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%90%9C%E9%9B%86%2F</url>
+    <content type="text"><![CDATA[文章摘要：收集关于iOS的面试题2018收集iOS笔试题(仅供参考学习使用)相关链接：转载请注明出处文章有问题请指出]]></content>
+      <categories>
+        <category>iOS</category>
+      </categories>
+      <tags>
+        <tag>iOS面试题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文章推荐]]></title>
+    <url>%2F2018%2F07%2F10%2F%E6%96%87%E7%AB%A0%E6%8E%A8%E8%8D%90%2F</url>
+    <content type="text"><![CDATA[文章摘要：推荐技术文章WWDC 2018：iOS 内存深入研究相关链接：知识小集转载请注明出处文章有问题请指出]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术文章</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[iOS9新特性之常见关键字]]></title>
     <url>%2F2017%2F09%2F15%2FiOS9%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%B8%B8%E8%A7%81%E5%85%B3%E9%94%AE%E5%AD%97%2F</url>
     <content type="text"><![CDATA[文章摘要：介绍iOS9常见关键字的作用iOS9新出的关键字是用来修饰属性、方法的参数和返回值目的是迎合Swift，提高开发人员的代码规范，减少程序员之间的交流iOS新出的关键字有 nonnull、 nullable、 null_resettable、 _Null_unspecified ，只能修饰对象，不能修饰基本数据类型nullable表示可为空1234567// nullable书写规范:// 方式一:@property (nonatomic, strong, nullable) NSString *name;// 方式二:@property (nonatomic, strong) NSString *_Nullable name;// 方式三:@property (nonatomic, strong) NSString *__nullable name;nonnull表示不能为空1234567// nonnull书写规范:// 方式一:@property (nonatomic, strong, nonnull) NSString *name;// 方式二:@property (nonatomic, strong) NSString *_Nonnull name;// 方式三:@property (nonatomic, strong) NSString *__nonnull name;在NS_ASSUME_NONNULL_BEGIN和NS_ASSUME_NONNULL_END之间,定义的所有对象属性和方法默认都是nonnullnull_resettable作用: get不能返回为空, set可以为空12// 书写方式:@property (nonatomic, strong, null_resettable) NSString *name;如果使用null_resettable,必须重写get方法或者set方法,处理传递的值为空的情况_Null_unspecified:不确定是否为空12345// 书写方式只有这种// 方式一@property (nonatomic, strong) NSString *_Null_unspecified name;// 方式二@property (nonatomic, strong) NSString *__null_unspecified name;以下这种写法结果是可以为空12345NS_ASSUME_NONNULL_BEGIN@property (nonatomic, strong, nullable) NSString *name;NS_ASSUME_NONNULL_END相关链接：无转载请注明出处文章有问题请指出]]></content>
