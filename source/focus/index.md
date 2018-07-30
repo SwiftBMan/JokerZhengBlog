@@ -8,6 +8,47 @@ updated: 2018-07-02 17:56:33
 - [老司机iOS周报](https://juejin.im/user/5a52075e6fb9a01c9d31b107)
 - [知识小集](https://juejin.im/user/5a9a7c4ef265da239d48c115/activities)
 - [UI志](https://juejin.im/user/5a7bf8135188257a5b045186)
+- [NSHipster](https://nshipster.cn)
+
+### 技术博客
+- [OneV's Den](https://onevcat.com/#blog)
+- [Limboy's HQ](http://limboy.me/category/tech.html)
+- [Casa Taloyum](https://casatwy.com)
+- [bang's blog](http://blog.cnbang.net)
+- [Garan no dou | 一只魔法师的工坊](https://blog.ibireme.com)
+- [面向信仰编程](https://draveness.me/index)
+- [Halfrost's Field | 冰霜之地](https://halfrost.com)
+- [星光社 - 戴铭的博客](https://ming1016.github.io)
+- [yulingtianxia's blog](http://yulingtianxia.com)
+- [mrpeak.cn](http://mrpeak.cn)
+- [sunnyxx](http://blog.sunnyxx.com)
+- [雷纯峰的技术博客](http://blog.leichunfeng.com/blog/archives/)
+- [Guardia 瓜地](https://www.desgard.com)
+
+### 跨平台开发
+- [Flutter 社区中文资源](https://flutter-io.cn)
+- [Flutter](https://flutterchina.club)
+- [Qt](https://www1.qt.io/cn/)
+- [MUI](http://dev.dcloud.net.cn/mui/)
+- [ReactNative](https://reactnative.cn)
+- [ionic](https://ionicframework.com/docs/)
+- [cordova](http://cordova.axuer.com)
+
+### 学习
+- [CocoaChina](http://www.cocoachina.com)
+- [w3school](http://www.w3school.com.cn)
+- [菜鸟教程](http://www.runoob.com)
+- [极客学院](http://www.jikexueyuan.com)
+- [简书](https://www.jianshu.com)
+- [ObjC 中国](https://objccn.io)
+- [掘金](https://juejin.im)
+- [CSDN](https://www.csdn.net)
+- [菜鸟要飞](http://www.newbiefly.com)
+- [优达学城](https://cn.udacity.com)
+- [IT教程吧](http://www.itjc8.com)
+- [小波说雨燕](http://www.xiaoboswift.com)
+- [慕课网](https://www.imooc.com)
+- [小马哥社区](http://bbs.520it.com/forum.php?mod=forumdisplay&fid=61)
 
 ### 常用网站
 - [ZEALER-评测网站](http://www.zealer.com)
@@ -60,29 +101,6 @@ updated: 2018-07-02 17:56:33
 - [QQ邮箱](https://mail.qq.com)
 - [网易163](https://mail.163.com)
 
-### 跨平台开发
-- [Qt](https://www1.qt.io/cn/)
-- [MUI](http://dev.dcloud.net.cn/mui/)
-- [ReactNative](https://reactnative.cn)
-- [ionic](https://ionicframework.com/docs/)
-- [cordova](http://cordova.axuer.com)
-
-### 学习
-- [CocoaChina](http://www.cocoachina.com)
-- [w3school](http://www.w3school.com.cn)
-- [菜鸟教程](http://www.runoob.com)
-- [极客学院](http://www.jikexueyuan.com)
-- [简书](https://www.jianshu.com)
-- [ObjC 中国](https://objccn.io)
-- [掘金](https://juejin.im)
-- [CSDN](https://www.csdn.net)
-- [菜鸟要飞](http://www.newbiefly.com)
-- [优达学城](https://cn.udacity.com)
-- [IT教程吧](http://www.itjc8.com)
-- [小波说雨燕](http://www.xiaoboswift.com)
-- [慕课网](https://www.imooc.com)
-- [小马哥社区](http://bbs.520it.com/forum.php?mod=forumdisplay&fid=61)
-
 ### 软件内测
 - [fir.im](https://fir.im)
 - [pre.im](http://pre.im/sites/site/signin)
@@ -104,18 +122,5 @@ updated: 2018-07-02 17:56:33
 - [Apple Developer](https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1#/overview/UXRGRQM8LR)
 - [Apple Developer Program](https://developer.apple.com/programs/enroll/)
 
-### 技术博客
-- [OneV's Den](https://onevcat.com/#blog)
-- [Limboy's HQ](http://limboy.me/category/tech.html)
-- [Casa Taloyum](https://casatwy.com)
-- [bang's blog](http://blog.cnbang.net)
-- [Garan no dou | 一只魔法师的工坊](https://blog.ibireme.com)
-- [面向信仰编程](https://draveness.me/index)
-- [Halfrost's Field | 冰霜之地](https://halfrost.com)
-- [星光社 - 戴铭的博客](https://ming1016.github.io)
-- [yulingtianxia's blog](http://yulingtianxia.com)
-- [mrpeak.cn](http://mrpeak.cn)
-- [sunnyxx](http://blog.sunnyxx.com)
-- [雷纯峰的技术博客](http://blog.leichunfeng.com/blog/archives/)
-- [Guardia 瓜地](https://www.desgard.com)
+
 
