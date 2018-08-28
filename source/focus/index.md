@@ -9,6 +9,15 @@ updated: 2018-07-02 17:56:33
 - [知识小集](https://juejin.im/user/5a9a7c4ef265da239d48c115/activities)
 - [UI志](https://juejin.im/user/5a7bf8135188257a5b045186)
 - [NSHipster](https://nshipster.cn)
+- [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 区块链
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [黑苹果技术](https://github.com/huangyz0918/Hackintosh-Installer-University)
+
+### 工具
+- [App Sight](https://www.appsight.io) - 查看主流 app 都用了哪些第三方服务和 SDK 
+- [create dmg](https://github.com/sindresorhus/create-dmg) - dmg 是 macOS app 常用的分发格式。一行命令将你的 macOS app 打包成 dmg 格式。
+- [AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS) - iOS自动打包脚本
+- [CoreML 模型仓库](https://coreml.store) - CoreML 模型仓库
 
 ### 技术博客
 - [OneV's Den](https://onevcat.com/#blog)
