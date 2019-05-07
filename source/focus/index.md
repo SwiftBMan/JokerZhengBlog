@@ -5,6 +5,8 @@ updated: 2018-07-02 17:56:33
 ---
 
 ### 最近关注
+- [小专栏](https://xiaozhuanlan.com)
+- [iOS知识小集](https://github.com/awesome-tips/iOS-Tips)
 - [老司机iOS周报](https://juejin.im/user/5a52075e6fb9a01c9d31b107)
 - [知识小集](https://juejin.im/user/5a9a7c4ef265da239d48c115/activities)
 - [UI志](https://juejin.im/user/5a7bf8135188257a5b045186)
@@ -12,6 +14,37 @@ updated: 2018-07-02 17:56:33
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 区块链
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [黑苹果技术](https://github.com/huangyz0918/Hackintosh-Installer-University)
+- [在线手册](http://shouce.jb51.net)
+
+### 史上最全的开发和设计资源大全
+- [Java 资源大全](https://github.com/jobbole/awesome-java-cn)
+- [Java 单个资源的详细介绍](http://hao.jobbole.com/?catid=32)
+</br></br>
+- [Python 资源大全](https://github.com/jobbole/awesome-python-cn)
+- [Python 单个资源的详细介绍](http://hao.jobbole.com/?catid=144)
+</br></br>
+- [JavaScript 资源大全](https://github.com/jobbole/awesome-javascript-cn)
+- [JavaScript 单个资源的详细介绍](http://hao.jobbole.com/?catid=67)</br></br>
+- [CSS 资源大全](https://github.com/jobbole/awesome-css-cn)
+- [CSS 单个资源的详细介绍](http://hao.jobbole.com/?catid=24)</br></br>
+- [iOS 资源大全](https://github.com/jobbole/awesome-ios-cn)
+- [iOS 单个资源的详细介绍](http://hao.jobbole.com/?catid=31)</br></br>
+- [C 资源大全](https://github.com/jobbole/awesome-c-cn)
+- [C 单个资源的详细介绍](http://hao.jobbole.com/?catid=1877)</br></br>
+- [MySQL 资源大全](https://github.com/jobbole/awesome-mysql-cn)
+- [MySQL 单个资源的详细介绍](http://hao.jobbole.com/?catid=7)</br></br>
+- [机器学习资源大全](https://github.com/jobbole/awesome-machine-learning-cn)</br></br>
+- [Android 资源大全](https://github.com/jobbole/awesome-android-cn)
+- [Android 单个资源的详细介绍](http://hao.jobbole.com/?catid=252)</br></br>
+- [系统管理员/运维资源大全](https://github.com/jobbole/awesome-sysadmin-cn)
+- [单个资源的详细介绍](http://hao.jobbole.com/?catid=7)</br></br>
+- [DotNet 资源大全](https://github.com/jobbole/awesome-dotnet-cn)</br></br>
+- [PHP 资源大全](https://github.com/jobbole/awesome-php-cn)</br></br>
+- [C++ 资源大全](https://github.com/jobbole/awesome-cpp-cn)
+- [C++ 单个资源的详细介绍](http://hao.jobbole.com/?catid=374)</br></br>
+- [设计师资源大全](https://github.com/jobbole/awesome-design-cn)
+- [单个资源的详细介绍](http://hao.jobbole.com/?catid=803)
+
 
 ### 工具
 - [App Sight](https://www.appsight.io) - 查看主流 app 都用了哪些第三方服务和 SDK 

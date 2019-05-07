@@ -38,3 +38,14 @@ unicode: 10.0
 cldr: 32.0
 
 tz: 2017c
+
+# 可能遇到的问题
+```
+sudo chmod -R 777 /var/root
+第一步给目录加权限：
+sudo chmod -R 777 /var/root
+第二步安装包
+npm install koa  -g --unsafe-perm
+
+并不是npm或者node本身的问题。需要root目录的权限。
+```

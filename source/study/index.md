@@ -5,6 +5,9 @@ date: 2018-07-13 10:14:28
 updated: 2018-07-13 10:14:28
 ---
 
+## iOS面试
+[笔试面试知识整理](https://hit-alibaba.github.io/interview/iOS/ObjC-Basic/Class.html)
+
 ## 人工智能
 [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.io/en/latest/index.html)<br>
 [Lisp教程](https://www.yiibai.com/lisp/lisp_tree.html)<br>
@@ -13,3 +16,6 @@ updated: 2018-07-13 10:14:28
 
 ## 跨平台开发
 [重要·Flutter 首个预览版 发布](https://juejin.im/post/5b2b41a451882574e808dbf1)
+
+## 英语
+[英语学习](https://byoungd.gitbooks.io/english-level-up-tips-for-chinese/content/)
