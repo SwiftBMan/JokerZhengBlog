@@ -7,7 +7,7 @@ title: JokerZheng of Blog       # 网站标题
 subtitle:     Life doesn't get easier, you just get stronger.        # 网站副标题
 description:  Life doesn't get easier, you just get stronger.    # 网站描述
 author: JokerZheng              # 您的名字
-language:  zh-Hans              # 网站使用的语言
+language:  zh-CN              # 网站使用的语言 旧的zh-Hans
 
 timezone:         # 网站时区。Hexo 默认使用您电脑的时区。时区列表。比如说：America/New_York, Japan, 和 UTC 。
 
@@ -89,7 +89,7 @@ pagination_dir: page            # 分页目录
 # Extensions 扩展
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next                                  # 当前主题名称。值为false时禁用主题
+theme: next-reloaded                                  # 当前主题名称。值为false时禁用主题，旧的主题next
 
 
 
@@ -147,7 +147,7 @@ live2d:
     height: 150
     position: left
     hOffset: 0
-    vOffset: -100
+    vOffset: 0
   mobile:
     show: true
     scale: 0.5

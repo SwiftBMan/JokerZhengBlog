@@ -5,6 +5,7 @@ updated: 2018-07-02 17:56:33
 ---
 
 ### 最近关注
+- [ggtalk程序员的闲聊节目](https://talk.swift.gg)
 - [小专栏](https://xiaozhuanlan.com)
 - [iOS知识小集](https://github.com/awesome-tips/iOS-Tips)
 - [老司机iOS周报](https://juejin.im/user/5a52075e6fb9a01c9d31b107)

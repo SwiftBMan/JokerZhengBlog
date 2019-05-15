@@ -5,8 +5,18 @@ date: 2018-07-13 10:14:28
 updated: 2018-07-13 10:14:28
 ---
 
+## Swift
+[SwiftGG](https://swiftgg.gitbook.io/swift/swift-jiao-cheng)
+
+## 算法
+[leetcode](https://leetcode-cn.com)
+
 ## iOS面试
-[笔试面试知识整理](https://hit-alibaba.github.io/interview/iOS/ObjC-Basic/Class.html)
+[笔试面试知识整理](https://hit-alibaba.github.io/interview/iOS/ObjC-Basic/Class.html)<br>
+[日常积累所看到的面试题集锦](https://github.com/iOShuyang/Book-Recommended-Interview)
+
+## 框架收集
+[推荐生活当中积累的Objective-C以及Swift优秀三方库](https://github.com/iOShuyang/Book-Recommend-Github)
 
 ## 人工智能
 [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.io/en/latest/index.html)<br>

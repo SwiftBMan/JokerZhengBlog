@@ -5,11 +5,11 @@ node v8.11.2
 
 npm  5.6.0
 
-hexo: 3.7.1
+hexo: 3.8.0
 
 hexo-cli: 1.1.0
 
-os: Darwin 17.6.0 darwin x64
+os: Darwin 18.5.0 darwin x64
 
 http_parser: 2.8.0
 

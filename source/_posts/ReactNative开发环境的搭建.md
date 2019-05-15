@@ -1,4 +1,5 @@
 ---
+uuid: e712da90-76ed-11e9-b6f1-ff1747528169
 title: ReactNative开发环境的搭建
 date: 2017-07-28 14:11:40
 updated:
