@@ -3,7 +3,7 @@ title: 关于我
 date: 2017-07-16 10:13:53
 comments: false
 ---
-<br/>
+
 # 个人介绍
 #### 网名：JokerZheng
 #### 职业：iOS开发工程师
@@ -13,6 +13,7 @@ comments: false
 #### 微信：Swift--Man
 #### 微信二维码：
 <img src="./images/WeChatQrCode.png" width = "30%" height = "30%" alt="微信二维码" align=center />
+
 #### 电话：18650385269
 
 # 主题
