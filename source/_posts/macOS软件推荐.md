@@ -7,14 +7,11 @@ categories:
 tags:
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：macOS软件推荐
-    {% endnote %}
+> macOS软件推荐
+
  <!-- more -->
-<The rest of contents | 余下全文>
 ***
-<!-- 内容 -->
+
 ## 开发工具
 [Navicat Premium（强大的数据库管理工具）](http://xclient.info/s/navicat-premium.html?t=b19ac9b363fc11a1488e4caf3a21c7754378d69c)
 

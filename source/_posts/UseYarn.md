@@ -9,12 +9,11 @@ tags:
     - yarn
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：介绍yarn的一些常用命令的使用 
-    {% endnote %}
+
+>文章摘要：介绍yarn的一些常用命令的使用 
+
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 1. 初始化项目
 {% codeblock %}

@@ -6,12 +6,10 @@ categories:
 tags:
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：
-    {% endnote %}
- <!-- more -->
-<The rest of contents | 余下全文>
+>
+ 
+<!-- more -->
+
 ***
 <!-- 内容 -->
 ***

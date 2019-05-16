@@ -9,12 +9,11 @@ tags:
     - 框架
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：精选iOS常用框架
-    {% endnote %}
+
+>文章摘要：精选iOS常用框架
+ 
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 ### 动画
 1. [lottie](https://github.com/airbnb/lottie-ios) —— 利用json做动画

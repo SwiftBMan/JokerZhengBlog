@@ -9,12 +9,12 @@ tags:
     - UNIX命令
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：详解UNIX命令之目录及文件操作命令
-    {% endnote %}
- <!-- more -->
-<The rest of contents | 余下全文>
+
+
+>文章摘要：详解UNIX命令之目录及文件操作命令
+
+<!-- more -->
+
 ***
 ## ls
 用法：

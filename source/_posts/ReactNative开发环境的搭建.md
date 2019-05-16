@@ -10,12 +10,11 @@ tags:
     - 开发环境配置
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：配置ReactNative开发环境
-    {% endnote %}
- <!-- more -->
-<The rest of contents | 余下全文>
+
+> 文章摘要：配置ReactNative开发环境
+ 
+<!-- more -->
+
 ***
 ## 环境要求
 - 安装Homebrew

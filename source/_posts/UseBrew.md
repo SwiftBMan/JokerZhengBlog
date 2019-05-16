@@ -9,12 +9,10 @@ tags:
     - brew
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：介绍brew一些常用命令的使用
-    {% endnote %}
+>介绍brew一些常用命令的使用
+  
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 1. 查看brew帮助
 ```

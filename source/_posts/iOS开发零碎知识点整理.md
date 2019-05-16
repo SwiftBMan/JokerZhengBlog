@@ -9,12 +9,12 @@ tags:
     - iOS
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：整理iOS零碎知识点
-    {% endnote %}
+
+
+>文章摘要：整理iOS零碎知识点
+
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 1. 调用代码使应用进入后台
 ```objc

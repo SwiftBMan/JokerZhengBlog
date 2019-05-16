@@ -1,9 +1,9 @@
 #JokerZhengBlog
 
 ##version
-node v8.11.2
+node v10.15.3
 
-npm  5.6.0
+npm  6.4.1
 
 hexo: 3.8.0
 

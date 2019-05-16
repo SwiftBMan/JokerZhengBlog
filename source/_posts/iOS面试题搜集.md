@@ -9,12 +9,11 @@ tags:
 	- iOS面试题
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：收集关于iOS的面试题
-    {% endnote %}
+
+>收集关于iOS的面试题
+   
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 <!-- 内容 -->
 [2018收集iOS笔试题(仅供参考学习使用)](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652562192&idx=1&sn=873b2ee71559b25294300b4ec6a71846&chksm=bcd2a61e8ba52f0873815a4e68956657b4006204b18f4d066eee4e21d5a506247bf9fc1364c4&mpshare=1&scene=23&srcid=0712RZWlTU2kZmv3YmciDQRv#rd)

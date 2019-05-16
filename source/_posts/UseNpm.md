@@ -9,12 +9,11 @@ tags:
     - npm
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：介绍npm一些常用命令的使用
-    {% endnote %}
+
+>文章摘要：介绍npm一些常用命令的使用
+ 
  <!-- more -->
-<The rest of contents | 余下全文>
+
 ***
 <!-- 内容 -->
 1. 安装模块

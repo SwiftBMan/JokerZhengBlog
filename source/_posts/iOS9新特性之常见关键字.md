@@ -9,12 +9,10 @@ tags:
     - iOS9新特性
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：介绍iOS9常见关键字的作用
-    {% endnote %}
- <!-- more -->
-<The rest of contents | 余下全文>
+
+> 文章摘要：介绍iOS9常见关键字的作用
+
+<!-- more -->
 ***
 <!-- 内容 -->
 - iOS9新出的关键字是用来修饰属性、方法的参数和返回值

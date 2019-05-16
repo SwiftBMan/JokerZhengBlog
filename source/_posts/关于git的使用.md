@@ -9,12 +9,11 @@ tags:
     - git
 ---
 ---
-<Excerpt in index | 首页摘要>  
-    {% note default %}
-    ### 文章摘要：git常用命令的使用
-    {% endnote %}
- <!-- more -->
-<The rest of contents | 余下全文>
+
+>文章摘要：git常用命令的使用
+
+<!-- more -->
+
 ***
 1. 什么是Git？
 Git是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
