@@ -7,6 +7,7 @@ categories:
 	- 数学
 tags:
 	- 数学符号
+mathjax: true
 ---
 ---
 > 数学符号大全

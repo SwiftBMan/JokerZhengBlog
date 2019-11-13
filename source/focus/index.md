@@ -5,6 +5,8 @@ updated: 2018-07-02 17:56:33
 ---
 
 ### 最近关注
+- [技术胖](http://jspang.com)
+- [知识小集](https://awesome-tips.github.io)
 - [ggtalk程序员的闲聊节目](https://talk.swift.gg)
 - [小专栏](https://xiaozhuanlan.com)
 - [iOS知识小集](https://github.com/awesome-tips/iOS-Tips)
@@ -19,30 +21,41 @@ updated: 2018-07-02 17:56:33
 
 ### 史上最全的开发和设计资源大全
 - [Java 资源大全](https://github.com/jobbole/awesome-java-cn)
-- [Java 单个资源的详细介绍](http://hao.jobbole.com/?catid=32)
-</br></br>
+- [Java 单个资源的详细介绍](http://hao.jobbole.com/?catid=32)    
+
 - [Python 资源大全](https://github.com/jobbole/awesome-python-cn)
 - [Python 单个资源的详细介绍](http://hao.jobbole.com/?catid=144)
-</br></br>
+
 - [JavaScript 资源大全](https://github.com/jobbole/awesome-javascript-cn)
-- [JavaScript 单个资源的详细介绍](http://hao.jobbole.com/?catid=67)</br></br>
+- [JavaScript 单个资源的详细介绍](http://hao.jobbole.com/?catid=67)
+
 - [CSS 资源大全](https://github.com/jobbole/awesome-css-cn)
-- [CSS 单个资源的详细介绍](http://hao.jobbole.com/?catid=24)</br></br>
+- [CSS 单个资源的详细介绍](http://hao.jobbole.com/?catid=24)
+
 - [iOS 资源大全](https://github.com/jobbole/awesome-ios-cn)
-- [iOS 单个资源的详细介绍](http://hao.jobbole.com/?catid=31)</br></br>
+- [iOS 单个资源的详细介绍](http://hao.jobbole.com/?catid=31)
+
 - [C 资源大全](https://github.com/jobbole/awesome-c-cn)
-- [C 单个资源的详细介绍](http://hao.jobbole.com/?catid=1877)</br></br>
+- [C 单个资源的详细介绍](http://hao.jobbole.com/?catid=1877)
+
 - [MySQL 资源大全](https://github.com/jobbole/awesome-mysql-cn)
-- [MySQL 单个资源的详细介绍](http://hao.jobbole.com/?catid=7)</br></br>
-- [机器学习资源大全](https://github.com/jobbole/awesome-machine-learning-cn)</br></br>
+- [MySQL 单个资源的详细介绍](http://hao.jobbole.com/?catid=7)
+
+- [机器学习资源大全](https://github.com/jobbole/awesome-machine-learning-cn)
+
 - [Android 资源大全](https://github.com/jobbole/awesome-android-cn)
-- [Android 单个资源的详细介绍](http://hao.jobbole.com/?catid=252)</br></br>
+- [Android 单个资源的详细介绍](http://hao.jobbole.com/?catid=252)
+
 - [系统管理员/运维资源大全](https://github.com/jobbole/awesome-sysadmin-cn)
-- [单个资源的详细介绍](http://hao.jobbole.com/?catid=7)</br></br>
-- [DotNet 资源大全](https://github.com/jobbole/awesome-dotnet-cn)</br></br>
-- [PHP 资源大全](https://github.com/jobbole/awesome-php-cn)</br></br>
+- [单个资源的详细介绍](http://hao.jobbole.com/?catid=7)
+
+- [DotNet 资源大全](https://github.com/jobbole/awesome-dotnet-cn)
+
+- [PHP 资源大全](https://github.com/jobbole/awesome-php-cn)
+
 - [C++ 资源大全](https://github.com/jobbole/awesome-cpp-cn)
-- [C++ 单个资源的详细介绍](http://hao.jobbole.com/?catid=374)</br></br>
+- [C++ 单个资源的详细介绍](http://hao.jobbole.com/?catid=374)
+
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn)
 - [单个资源的详细介绍](http://hao.jobbole.com/?catid=803)
 
